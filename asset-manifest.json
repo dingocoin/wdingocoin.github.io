@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3dce52f.chunk.css",
-    "main.js": "/static/js/main.7efd0697.chunk.js",
-    "main.js.map": "/static/js/main.7efd0697.chunk.js.map",
+    "main.css": "/static/css/main.80e6e94e.chunk.css",
+    "main.js": "/static/js/main.a08e1b75.chunk.js",
+    "main.js.map": "/static/js/main.a08e1b75.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8233b8b5.js",
     "runtime-main.js.map": "/static/js/runtime-main.8233b8b5.js.map",
     "static/js/2.2673dd07.chunk.js": "/static/js/2.2673dd07.chunk.js",
     "static/js/2.2673dd07.chunk.js.map": "/static/js/2.2673dd07.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c3dce52f.chunk.css.map": "/static/css/main.c3dce52f.chunk.css.map",
+    "static/css/main.80e6e94e.chunk.css.map": "/static/css/main.80e6e94e.chunk.css.map",
     "static/js/2.2673dd07.chunk.js.LICENSE.txt": "/static/js/2.2673dd07.chunk.js.LICENSE.txt",
     "static/media/dingocoin.15331900.png": "/static/media/dingocoin.15331900.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8233b8b5.js",
     "static/js/2.2673dd07.chunk.js",
-    "static/css/main.c3dce52f.chunk.css",
-    "static/js/main.7efd0697.chunk.js"
+    "static/css/main.80e6e94e.chunk.css",
+    "static/js/main.a08e1b75.chunk.js"
   ]
 }
